@@ -77,7 +77,7 @@
             </div>
             <div class="card">
                 <div class="ph">
-                    <img src="{{ asset('img/Galeri/Kades.webp') }}" alt="">
+                    <img src="" alt="">
                 </div>
             </div>
         </div>
